@@ -1,4 +1,4 @@
-# DsMeta
+# Alura Tracker
 
 Projeto criado para auxiliar no estudo.
 
@@ -13,8 +13,6 @@ Projeto criado para auxiliar no estudo.
 <img src="https://user-images.githubusercontent.com/44590705/211942722-4c83c2ba-40c9-443f-895e-a7272cc51f8f.png#vitrinedev" />
 
 </div>
-
-# alura-tracker
 
 ## Project setup
 ```
@@ -35,6 +33,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
