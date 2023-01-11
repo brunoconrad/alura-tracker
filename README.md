@@ -4,7 +4,7 @@ Projeto criado para auxiliar no estudo.
 
 |  | INFORMAÇÕES DO PROJETO |
 | -------------  | --- |
-| :sparkles: Nome      | **DsMeta**
+| :sparkles: Nome      | **Alura Tracker**
 | :label: Tecnologias  | VueJS, TypeScript
 | :rocket: Projeto         | https://github.com/brunoconrad/alura-tracker
 
