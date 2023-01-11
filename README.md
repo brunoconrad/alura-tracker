@@ -1,6 +1,6 @@
 # Alura Tracker
 
-Projeto criado para auxiliar no estudo.
+Projeto criado para auxiliar nos estudos.
 
 |  | INFORMAÇÕES DO PROJETO |
 | -------------  | --- |
